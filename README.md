@@ -87,6 +87,11 @@ Note that DetecTree is based on the methods of Yang et al. \[1\], therefore it s
 
 > The classification of tree pixels has been performed with the Python library DetecTree (Bosch, 2020), which is based on the approach of Yang et al. (2009).
 
+## Requirements
+Numpy <2.0
+```bash
+pip install numpy==1.26.4
+```
 ## Installation
 
 ### With conda
